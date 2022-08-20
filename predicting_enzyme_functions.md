@@ -1,4 +1,4 @@
-## Predicting enzyme functions
+# Predicting enzyme functions
 __To predict enzyme commission (EC) numbers for query IDs in every proteome, DeepEC version 0.4.0 (Ryu et al. 2019) was used.__
 
 ```
@@ -31,7 +31,7 @@ comm -13 shared_between_pf.txt sorted_EC_para.txt > parasites_EC.txt
 #Only present in free-living
 comm -13 shared_between_pf.txt sorted_EC_free.txt > freeliving_EC.txt
 ```
-# Searching sequences for KEGG annotation
+## Searching sequences for KEGG annotation
 
 As input for ghoastKOALA, protein sequences are needed, therefore the EC numbers of the ‘shared’ groups were reconnected to their query ID.
 
