@@ -7,6 +7,10 @@ Before starting the analysis asterisks had to be removed from nine proteomes.
 
 #!/bin/bash
 sed 's/*//g' input.FASTA > output.FASTA
+
+#All FASTA files were then merged into one big FASTA file
+
+cat *.fa > all_proteins_combined.fa
 ```
 The sequences where then submitted to InteProScan for functional annotation as preparatory work for KinFin analysis. Settings were taken from the KinFin website at https://kinfin.readme.io/docs/starting-from-a-clustering-files.
 
