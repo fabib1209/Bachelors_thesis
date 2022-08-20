@@ -11,7 +11,10 @@ functional_annotation.txt
 ```
 
 
-[Uploading functional_annotation.txt.zip…]()
-[Uploading SequenceIDs.txt.zip…]()
-[Uploading Orthogroups_new.txt…]()
+[functional_annotation.txt.zip](https://github.com/fabib1209/bachelors_thesis_scripts/files/9387097/functional_annotation.txt.zip)
+[SequenceIDs.txt.zip](https://github.com/fabib1209/bachelors_thesis_scripts/files/9387102/SequenceIDs.txt.zip)
 [config_new.txt](https://github.com/fabib1209/bachelors_thesis_scripts/files/9387093/config_new.txt)
+[Orthogroups_new.txt.zip](https://github.com/fabib1209/bachelors_thesis_scripts/files/9387103/Orthogroups_new.txt.zip)
+
+
+
