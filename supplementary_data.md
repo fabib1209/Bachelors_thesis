@@ -1,7 +1,22 @@
 # Supplementary data
 
-Table showing which genes are included in the enriched clusters for every species
-[genes_from_enriched_cluster.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9416581/genes_from_enriched_cluster.xlsx).
+Table showing which genes are included in the enriched clusters for every species:
+[genes_from_enriched_cluster.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9416581/genes_from_enriched_cluster.xlsx)
+
+## Tables shown in the thesis
+Table 1 and 2: [Enriched_cluster_annotation.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425118/Enriched_cluster_annotation.xlsx)
+Table 3,4,5,6: [K_number-functions_.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425141/K_number-functions_.xlsx)
+Table 7: [config_file.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425147/config_file.xlsx)
+Table 8: [orthofinder_statistics.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425177/orthofinder_statistics.xlsx)
+Table 9: [results_busco_.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425249/results_busco_.xlsx)
+Table 10: [Species_used_.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425259/Species_used_.xlsx)
+Table 11,12,13: [k_numbers.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425283/k_numbers.xlsx)
+Table 14,15: [enriched_GO.xlsx](https://github.com/fabib1209/Bachelors_thesis/files/9425331/enriched_GO.xlsx)
+
+
+
+
+
 
 ## Figures shown in the thesis
 Figure 1: <img width="225" alt="image" src="https://user-images.githubusercontent.com/111606676/186675492-ea8ec26b-2ad8-4cfe-ac8a-3e45a8e2f275.png">
