@@ -12,10 +12,9 @@ do
         echo $line
         grep "\<${line}\>" results_detail_sharedpf_KEGG.txt >> enriched_pathways.txt
 done < enriched_genenames.txt
+```
 
 From 'enriched_pathways' the K numbers were sorted out and the KEGG-pathways tool (https://www.kegg.jp/kegg/pathway.html) used to search for the pathways the K numbers are active in.
-
-```
 
 
 
