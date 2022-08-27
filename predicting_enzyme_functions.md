@@ -17,7 +17,7 @@ done
 
 Duplicates were removed and the files sorted with `sort -u`.
 
-We searched for shared EC numbers between free-living and parasitic species using `comm`.
+Shared EC numbers between free-living and parasitic species were searched using `comm`.
 
 ```
 #grouping the EC numbers according to habitat of the species
@@ -52,7 +52,7 @@ Then query IDs and sequences were reconnected from a file with all proteomes mer
 seqtk subseq 36_combined.fa shared_between_genenames.txt > sequences_shared_pf.fa
 
 
-These sequences were then submitted to ghostKOALA.
+These sequences were then submitted to GhostKOALA.
 
 
 
