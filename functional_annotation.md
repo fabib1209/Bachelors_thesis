@@ -1,9 +1,9 @@
 ## Functional annotation of protein sequences
-__Scrips i used for the functional annotation of the protein sequences using InterProScan 5 (Jones et a.,2014).__
+__Scrips i used for the functional annotation of the protein sequences using InterProScan 5 (Jones et al.,2014).__
 
 Before starting the analysis asterisks had to be removed from nine proteomes.
 ```
-#To remove asterisks from the FASTA files we used
+#To remove asterisks from the FASTA files sed was used
 
 #!/bin/bash
 sed 's/*//g' input.FASTA > output.FASTA
