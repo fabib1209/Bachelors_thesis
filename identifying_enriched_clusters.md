@@ -1,8 +1,8 @@
 ## Identifying enriched protein clusters
-__To then identify and annotate enriched protein clusters KinFin version 1.0.3 (Laetsch and Blaxter, 2017) was used in our analysis.__
+__To then identify and annotate enriched protein clusters KinFin version 1.0.3 (Laetsch and Blaxter, 2017) was used in the analysis.__
 
 KinFin uses as standard input a user specified config file and two output files from OrthoFinder, Orthogroups.txt and SequenceIDs.txt, a functional annotation from InterProScan can be used as well.
-Beforehand the InterProScan output has to be converted using `iprs2table.py`which is provided by KinFin at https://kinfin.readme.io/docs/iprs2tablepy.
+Beforehand the InterProScan output has to be converted using `iprs2table.py` which is provided by KinFin at https://kinfin.readme.io/docs/iprs2tablepy.
 ```
 #!/bin/bash
 
